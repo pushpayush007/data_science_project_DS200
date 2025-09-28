@@ -15,7 +15,6 @@ This project analyzes voter registration data from Maharashtra, India, focusing 
 ├── box_plot.png             # Distribution analysis by division
 ├── bar_plot.png             # Top districts and comparative analysis
 ├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
 ```
 
 ## 📈 Data Source
@@ -117,7 +116,7 @@ python data_analysis.py
 
 ### Google Colab:
 1. Upload `data.csv` to Colab environment
-2. Install required packages: `!pip install pandas matplotlib seaborn`
+2. Install required packages: `pip install pandas matplotlib seaborn`
 3. Run the analysis script
 4. Download generated plots
 
@@ -152,14 +151,9 @@ Indian Institute of Science, Bengaluru
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page and submit pull requests.
 
 ---
 
-*Last updated: December 2024*
