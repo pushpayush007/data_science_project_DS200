@@ -1,0 +1,41 @@
+Division,District,Active Registration,Male,Female,Other
+Amravati,Akola,"70,431","27,663","42,743",25
+Amravati,Amravati,"97,751","39,557","58,177",17
+Amravati,Buldhana,"74,390","41,645","32,734",11
+Amravati,Washim,"10,136","3,736","6,399",1
+Amravati,Yavatmal,"1,25,366","36,543","88,787",36
+Aurangabad,Aurangabad,"1,91,300","65,048","1,26,194",58
+Aurangabad,Beed,"73,943","36,475","37,463",5
+Aurangabad,Hingoli,"1,08,600","47,643","60,928",29
+Aurangabad,Jalna,"94,108","43,840","50,250",18
+Aurangabad,Latur,"70,640","31,407","39,221",12
+Aurangabad,Nanded,"77,405","38,023","39,363",19
+Aurangabad,Osmanabad,"12,814","5,347","7,466",1
+Aurangabad,Parbhani,"93,123","45,390","47,717",16
+Mumbai,Mumbai City,"8,463","8,383",80,NA
+Mumbai,Mumbai Suburban East,"3,603","3,414",189,NA
+Mumbai,Mumbai Suburban West,"5,315","5,174",140,1
+Nagpur,Bhandara,"42,412","15,483","26,923",6
+Nagpur,Chandrapur,"46,651","9,229","37,407",15
+Nagpur,Gadchiroli,"16,447","6,002","10,443",2
+Nagpur,Gondia,"19,257","6,879","12,377",1
+Nagpur,Nagpur,"2,11,942","52,441","1,59,452",49
+Nagpur,Wardha,"40,362","15,175","25,175",12
+Nashik,Ahmednagar,"1,14,331","58,330","55,975",26
+Nashik,Dhule,"1,49,033","55,000","93,983",50
+Nashik,Jalgaon,"2,30,273","65,376","1,64,837",60
+Nashik,Nandurbar,"2,10,852","59,834","1,50,965",53
+Nashik,Nashik,"2,39,170","82,245","1,56,872",53
+Pune,Ichalkaranji,"35,406","12,476","22,919",11
+Pune,Kolhapur,"2,09,780","81,096","1,28,624",60
+Pune,Pune,"1,71,620","55,148","1,16,425",47
+Pune,Sangli,"1,88,851","77,032","1,11,775",44
+Pune,Satara,"1,17,439","39,028","78,392",19
+Pune,Solapur,"1,96,512","76,407","1,20,066",39
+Rest Of Konkan,Kalyan,"14,149","5,743","8,405",1
+Rest Of Konkan,Palghar,"35,935","4,708","31,216",11
+Rest Of Konkan,Panvel,"12,751","9,752","2,999",NA
+Rest Of Konkan,Ratnagiri,"55,842","21,652","34,186",4
+Rest Of Konkan,Sindhudurg,"21,267","14,618","6,649",NA
+Rest Of Konkan,Thane,"10,804","5,749","5,051",4
+Total,Total,"35,08,474","13,08,691","21,98,967",816
